@@ -1,0 +1,23 @@
+{
+  "bitwise": false,
+  "curly": true,
+  "eqeqeq": false,
+  "es3": false,
+  "es5": false,
+  "forin": false,
+  "freeze": false,
+  "funcscope": true,
+  "futurehostile": true,
+  "maxparams": 4,
+  "noarg": true,
+  "nocomma": true,
+  "nonbsp": true,
+  "nonew": true,
+  "notypeof": false,
+  "shadow": "inner",
+  "singleGroups": true,
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "node": true
+}
