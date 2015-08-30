@@ -1,7 +1,7 @@
 {
   "name": "docoptmd",
   "description": "Keep docopt configuration directly in your readme",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Qix (http://github.com/qix-)",
   "keywords": [
     "docopt",
