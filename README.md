@@ -1,4 +1,4 @@
-# docopt.coffee.md [![Travis-CI.org Build Status](https://img.shields.io/travis/Qix-/docopt.coffee.md.svg?style=flat-square)](https://travis-ci.org/Qix-/docopt.coffee.md) [![Coveralls.io Coverage Rating](https://img.shields.io/coveralls/Qix-/docopt.coffee.md.svg?style=flat-square)](https://coveralls.io/r/Qix-/docopt.coffee.md)
+# docopt.coffee.md [![Travis-CI.org Build Status](https://img.shields.io/travis/Qix-/docopt.md.svg?style=flat-square)](https://travis-ci.org/Qix-/docopt.md) [![Coveralls.io Coverage Rating](https://img.shields.io/coveralls/Qix-/docopt.md.svg?style=flat-square)](https://coveralls.io/r/Qix-/docopt.md)
 Read your [docopt](https://github.com/docopt/docopt.coffee) configuration
 directly from your README.md file and package.json.
 
